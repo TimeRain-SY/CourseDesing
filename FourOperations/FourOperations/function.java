@@ -1,3 +1,5 @@
+package FourOperations;
+
 import java.util.Random;
 
 public class function {

@@ -1,3 +1,5 @@
+package FourOperations;
+
 import javax.swing.*;
 import java.awt.*;
 
