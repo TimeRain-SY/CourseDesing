@@ -3,9 +3,6 @@ package FourOperations_Demo;
 public class Threads extends Thread{
     Function function = new Function();
     long minPrime;
-//    Threads(long minPrime){
-//        this.minPrime = minPrime;
-//    }
     public void run(){
         long startTime = System.currentTimeMillis();
         try {
