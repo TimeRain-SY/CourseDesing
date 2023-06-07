@@ -29,7 +29,6 @@ public class Main {
                         function.answers();
                         //校验答案
                         function.count(answer);
-                        //到时结束
                         }
                     System.out.println("作答结束,你的分数为: "+function.getScore());
                     System.exit(0);
